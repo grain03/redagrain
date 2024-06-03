@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://grain03.github.io/portfolio/](https://grain03.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [www.redagrain.website](www.redagrain.website)
 
 - 💬 Ask me about **ReactJS, Laravel**
 
-- 📫 How to reach me **grain.reda.solicode@gmail.com**
+- 📫 How to reach me **hello@redagrain.website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
